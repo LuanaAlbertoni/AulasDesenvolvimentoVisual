@@ -1,0 +1,15 @@
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\3-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\3-CaracteresETextos.AssemblyInfoInputs.cache
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\3-CaracteresETextos.AssemblyInfo.cs
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\3-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\bin\Debug\net5.0\3-CaracteresETextos.exe
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\bin\Debug\net5.0\3-CaracteresETextos.deps.json
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\bin\Debug\net5.0\3-CaracteresETextos.runtimeconfig.json
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\bin\Debug\net5.0\3-CaracteresETextos.runtimeconfig.dev.json
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\bin\Debug\net5.0\3-CaracteresETextos.dll
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\bin\Debug\net5.0\ref\3-CaracteresETextos.dll
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\bin\Debug\net5.0\3-CaracteresETextos.pdb
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\3-CaracteresETextos.dll
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\ref\3-CaracteresETextos.dll
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\3-CaracteresETextos.pdb
+C:\AulasDesenvolvimentoVisual\Aulas\3-CaracteresETextos\obj\Debug\net5.0\3-CaracteresETextos.genruntimeconfig.cache

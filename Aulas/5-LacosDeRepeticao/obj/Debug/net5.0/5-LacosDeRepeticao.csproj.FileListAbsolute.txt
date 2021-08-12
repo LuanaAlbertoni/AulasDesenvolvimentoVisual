@@ -1,0 +1,16 @@
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\bin\Debug\net5.0\5-LacosDeRepeticao.exe
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\bin\Debug\net5.0\5-LacosDeRepeticao.deps.json
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\bin\Debug\net5.0\5-LacosDeRepeticao.runtimeconfig.json
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\bin\Debug\net5.0\5-LacosDeRepeticao.runtimeconfig.dev.json
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\bin\Debug\net5.0\5-LacosDeRepeticao.dll
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\bin\Debug\net5.0\ref\5-LacosDeRepeticao.dll
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\bin\Debug\net5.0\5-LacosDeRepeticao.pdb
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.csproj.AssemblyReference.cache
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.AssemblyInfoInputs.cache
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.AssemblyInfo.cs
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.dll
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\ref\5-LacosDeRepeticao.dll
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.pdb
+C:\AulasDesenvolvimentoVisual\Aulas\5-LacosDeRepeticao\obj\Debug\net5.0\5-LacosDeRepeticao.genruntimeconfig.cache

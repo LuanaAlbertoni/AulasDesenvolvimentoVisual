@@ -1,0 +1,15 @@
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\bin\Debug\net5.0\Atividade2Aula02.exe
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\bin\Debug\net5.0\Atividade2Aula02.deps.json
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\bin\Debug\net5.0\Atividade2Aula02.runtimeconfig.json
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\bin\Debug\net5.0\Atividade2Aula02.runtimeconfig.dev.json
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\bin\Debug\net5.0\Atividade2Aula02.dll
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\bin\Debug\net5.0\ref\Atividade2Aula02.dll
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\bin\Debug\net5.0\Atividade2Aula02.pdb
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\Atividade2Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\Atividade2Aula02.AssemblyInfoInputs.cache
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\Atividade2Aula02.AssemblyInfo.cs
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\Atividade2Aula02.csproj.CoreCompileInputs.cache
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\Atividade2Aula02.dll
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\ref\Atividade2Aula02.dll
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\Atividade2Aula02.pdb
+C:\AulasDesenvolvimentoVisual\Aulas\Atividade2Aula02\obj\Debug\net5.0\Atividade2Aula02.genruntimeconfig.cache
